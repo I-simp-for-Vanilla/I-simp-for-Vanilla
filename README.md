@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @I-simp-for-Vanilla
 - 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me : you can't
+- 🌱 I’m currently learning big data and machine learning
+- 📫 How to reach me :
+        Mail : antonin.lartillot-auteuil@efrei.net
 
 <!---
 I-simp-for-Vanilla/I-simp-for-Vanilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
